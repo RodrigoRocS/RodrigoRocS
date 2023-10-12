@@ -7,8 +7,8 @@ I'm passionate about people and technology and I'm constantly on a journey of pe
 
 ## Github Stats
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoRocS&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699&include_all_commits=true&count_private=true")
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRocS&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699)
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoRocS&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=007ACC&icon_color=007ACC&text_color=007ACC)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRocS&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=007ACC&icon_color=007ACC&text_color=007ACC)
 
 ##  Skills
 
