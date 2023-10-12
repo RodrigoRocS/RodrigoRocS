@@ -12,18 +12,18 @@ I'm passionate about people and technology and I'm constantly on a journey of pe
 
 ##  Skills
 
-![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=CC6699)
-![CSS3](https://img.shields.io/badge/css3-0D1117.svg?style=for-the-badge&logo=css3&logoColor=CC6699)
-![JavaScript](https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=CC6699)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/mysql-00f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB--kQ3qZkabOBf1-f51nWAzJYbggP-bvkDBwwk7ZPUSPUqm2hM6L3H9fNgKE3gGyPido&usqp=CAU)
-![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=CC6699)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 ## Certifications
